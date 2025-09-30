@@ -1,0 +1,11 @@
+                              precision    recall  f1-score   support
+
+          Acute pancreatitis       1.00      0.80      0.89       113
+     Adenosquamous carcinoma       0.97      0.98      0.98       105
+        Chronic pancreatitis       0.99      0.96      0.98       108
+metastatic pancreatic cancer       0.88      1.00      0.94       187
+                      normal       1.00      1.00      1.00       225
+
+                    accuracy                           0.96       738
+                   macro avg       0.97      0.95      0.96       738
+                weighted avg       0.96      0.96      0.96       738
